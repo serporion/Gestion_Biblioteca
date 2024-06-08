@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * Implementa ServiciosGestiondeLibros con los servicios obligatorios que debe de
  * tener esta clase.
  *
- * @author Oscar Delgado Huertas.
+ * @author serporion.
  */
 public class Libros implements ServiciosGestiondeLibros{
 

@@ -16,7 +16,7 @@ import java.util.LinkedHashSet;
  * "eficiente" (entre comillas) de préstamos para mantener un control sobre los 
  * libros disponibles.
  *
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public class GestionBiblioteca {
 

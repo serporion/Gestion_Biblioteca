@@ -12,7 +12,7 @@ import java.util.LinkedHashSet;
  * Interface que define de manera obligada los metodos en la clase Prestamos con 
  * los que trabajar.
  * 
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public interface ServiciosGestionPrestamos {
     

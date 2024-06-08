@@ -17,7 +17,7 @@ import java.util.Scanner;
  * Clase que se encarga de estructurar y manejar el metodo menu() del programa y 
  * las opciones elegidas en el metodo opcionesDelPrograma().
  *
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public class Funcionalidades {
 

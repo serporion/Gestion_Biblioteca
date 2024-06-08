@@ -17,7 +17,7 @@ import java.util.Scanner;
  * Implementa ServiciosGestiondePrestamos con los servicios obligatorios que debe de
  * tener esta clase.
  *
- * @author Oscar Delgado Huertas.
+ * @author serporion.
  */
 public class Prestamos implements ServiciosGestionPrestamos {
 

@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * 
  * Interface con los servicios obligatorios que debe de contener la clase Usuarios.
  * 
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
  public interface ServiciosGestiondeUsuarios {
     

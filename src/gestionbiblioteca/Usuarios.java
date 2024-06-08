@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * Implementa ServiciosGestiondeUsuarios con los servicios obligatorios que debe de
  * tener esta clase.
  *
- * @author Oscar Delgado Huertas.
+ * @author serporion.
  */
 public class Usuarios implements ServiciosGestiondeUsuarios {
 
